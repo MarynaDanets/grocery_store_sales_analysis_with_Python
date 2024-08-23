@@ -21,6 +21,10 @@ This project delves into the sales data of grocery chain stores across four Asia
 
 The project concludes with actionable recommendations for business improvements, aimed at enhancing profitability and customer satisfaction.
 
+## Metrics and Report
+
+You can find a detailed overview of the key metrics used in this analysis in the following document: [Link](https://docs.google.com/document/d/1mhuNltPZb8mX3o5qjSwfeZtX0ghg9bHTeLcq3zUDQxg/edit?usp=sharing). This document outlines the important performance indicators, providing additional context and explanations for the metrics analyzed in this project.
+
 ## Dataset
 
 The dataset used in this project is available on [Google Drive](https://docs.google.com/spreadsheets/d/1joHSbl4EcTeb_TVdLEHikyT-i1gCUBhc/edit?usp=sharing&ouid=104142303118575021731&rtpof=true&sd=true).
