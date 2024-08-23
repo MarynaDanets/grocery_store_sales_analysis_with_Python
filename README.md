@@ -8,7 +8,7 @@ This data analysis project, completed as part of my **"Python for Data Analysis"
 - **Data Manipulation with Pandas:** Efficient handling of data tasks, including filtering, grouping, summarizing, and cleaning, using the powerful Pandas library.
 - **Data Visualization:** Utilization of Matplotlib and Seaborn to create informative visualizations that highlight important sales trends and customer behavior.
 - **Insights & Conclusions:** In-depth analysis leading to actionable insights, including an understanding of customer lifetime value, sales performance, and demographic trends.
-- **Tableau Reporting:** Creation of an interactive report in Tableau, offering a visual summary of the key findings.
+- **Tableau Reporting:** Creation of an interactive report in Tableau, offering a visual summary of the key findings. [Link](https://public.tableau.com/app/profile/maryna.danets/viz/ProfitMargin_17212539303290/ProfitMargin) to view more on Tableau Public.
 
 ## Project Description:
 
@@ -20,6 +20,10 @@ This project delves into the sales data of grocery chain stores across four Asia
 - **Statistical Testing:** Application of statistical methods to validate findings and support data-driven decision-making.
 
 The project concludes with actionable recommendations for business improvements, aimed at enhancing profitability and customer satisfaction.
+
+## Dataset
+
+The dataset used in this project is available on [Google Drive](https://docs.google.com/spreadsheets/d/1joHSbl4EcTeb_TVdLEHikyT-i1gCUBhc/edit?usp=sharing&ouid=104142303118575021731&rtpof=true&sd=true).
 
 ## Tech Stack:
 
