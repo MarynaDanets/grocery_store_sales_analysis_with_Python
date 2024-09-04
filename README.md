@@ -8,8 +8,7 @@ This data analysis project, completed as part of my **"Python for Data Analysis"
 - **Data Manipulation with Pandas:** Efficient handling of data tasks, including filtering, grouping, summarizing, and cleaning, using the powerful Pandas library.
 - **Data Visualization:** Utilization of Matplotlib and Seaborn to create informative visualizations that highlight important sales trends and customer behavior.
 - **Insights & Conclusions:** In-depth analysis leading to actionable insights, including an understanding of customer lifetime value, sales performance, and demographic trends.
-- **Tableau Reporting:** Creation of an interactive report in Tableau, offering a visual summary of the key findings.
-[Link](https://public.tableau.com/app/profile/maryna.danets/viz/ProfitMargin_17212539303290/ProfitMargin) to view more on Tableau Public.
+- [**Tableau Reporting:**](https://public.tableau.com/app/profile/maryna.danets/viz/ProfitMargin_17212539303290/ProfitMargin) Creation of an interactive report in Tableau, offering a visual summary of the key findings. Click to view more on Tableau Public.
 - **Sales Trends Analysis:** Investigation of sales patterns across different countries and cities, identifying high-performing regions and potential areas for growth.
 - **Customer Behavior Insights:** Analysis of average transaction values, customer demographics, and lifetime value to better understand customer purchasing habits.
 - **Profitability & Payment Methods:** Examination of the profitability of different product categories and the payment methods used, providing insights for optimizing sales strategies.
